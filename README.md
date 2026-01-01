@@ -32,7 +32,7 @@ I'm an **Android Developer** from Malaysia 🇲🇾, passionate about building p
 **Magic: The Gathering Combat Calculator**
 
 [![Google Play](https://img.shields.io/badge/Google_Play-50%2B_Downloads-success?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.eopticz.mtgdamagecalc)
-[![Web App](https://img.shields.io/badge/Try_Web_Version-Live-blue?style=for-the-badge&logo=firebase)](https://mtg-combat-calculator.web.app)
+
 
 ![MTG Calculator](https://img.shields.io/badge/Version-6.0-brightgreen?style=flat-square)
 ![Rating](https://img.shields.io/badge/Age_Rating-3%2B-yellow?style=flat-square)
