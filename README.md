@@ -66,14 +66,13 @@ I'm an **Android Developer** from Malaysia 🇲🇾, passionate about building p
 
 ## 💭 Development Philosophy
 
-> *"Coding is thinking, not typing"*
+> *"Debugging is like playing Magic: The Gathering - you think you understand the rules until someone plays a weird combo"* 🎮
 
-I focus on:
-- ✅ Readable, maintainable code
-- ✅ Modular and scalable architecture
-- ✅ Proper edge case handling
-- ✅ Security best practices
-- ✅ Real-world problem solving
+My stack priorities:
+- ✅ Readable code > Clever code (I'm not that smart, neither are you)
+- ✅ Modular architecture (like building a good MTG deck)
+- ✅ Handle edge cases (because users ALWAYS tap mana wrong)
+- 🐛 If it compiles, ship it! (JK... mostly)
 
 ## 📫 Let's Connect
 
