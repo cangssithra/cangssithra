@@ -52,7 +52,7 @@ I'm an **Android Developer** from Malaysia 🇲🇾, passionate about building p
 
 **Platforms:** Android • Web
 
-[📥 Download on Google Play](https://play.google.com/store/apps/details?id=com.eopticz.mtgdamagecalc) • [🌐 Try Web Version](https://mtg-combat-calculator.web.app) • [📂 View Source](https://github.com/cangssithra/mtg-damage-calculator)
+[📥 Download on Google Play](https://play.google.com/store/apps/details?id=com.eopticz.mtgdamagecalc) 
 
 ---
 
